@@ -1,0 +1,7 @@
+Raster attribute	Land classes
+1	Forest
+2	Urban
+3	Water
+4	Agricultural land
+5	Barren land
+6	Wetland
